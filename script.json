@@ -5,6 +5,6 @@
     "HELP": "Welcome to Convo Support! My name is Samuel. What do you need help with? You can type Account, Products, or Other.",
     "HEY": "Welcome to Convo Support! My name is Samuel. What do you need help with? You can type Account, Products, or Other.",
     "ACCOUNT": "Sure! Let me pull up your account. What is your first and last name?",
-    "PRODUCTS": "Great. Which product do you need help with? Convo Desktop, Convo Mobile, or Convo Lights",
+    "PRODUCTS": "Great. Which product do you need help with? %[Convo Desktop](postback: Convo Desktop) %[Convo Mobile](postback: Convo Mobile) %[Convo Lights](postback: Convo Lights)",
     "OTHER": "Stand by. Assigning you to a live rep."
 }
